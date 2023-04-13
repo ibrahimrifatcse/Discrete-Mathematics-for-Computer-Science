@@ -10,4 +10,4 @@ snippets may be slightly smaller because they only loop through a smaller range 
 In terms of space complexity, both sets of code snippets have constant space complexity O(1)
 because they use a fixed amount of memory regardless of the input size.
 
-![image](https://user-images.githubusercontent.com/101995954/231659632-102901ba-b2ed-413a-b1fe-bc95264e8d27.png)
+![image](https://user-images.githubusercontent.com/101995954/231661161-f51e095f-53d3-4f10-bbf6-ce68e90bd5f5.png)
